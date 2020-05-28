@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewFirst</string>
+
+    <string-array name="list_of_items">
+        <item>calculator</item>
+        <item>image loading</item>
+        <item>caching</item>
+        <item>bio app</item>
+        <item>recycler view</item>
+    </string-array>
+</resources>
